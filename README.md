@@ -16,17 +16,26 @@
 <a href="https://instagram.com/pierreanbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pierreanbar" height="30" width="40" /></a>
 </p>
 
-const Pierre = {
+const PierreBarba = {
   fullName: "Jean Pierre Antonio Barba Arredondo",
+  
   studentAt: "Microverse",
+  
   lookingFor: "Front-end development opportunities" || "Full-stack web developement",
+  
   techStack: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS3, Ruby, Bootstrap, 
   PostgreSQL, SASS, Gsap],
+  
   tools: [Github, Gitlab, Dev, Git],
+  
   challenge: "Road to being the best by constantly improving my skills",
+  
   askMeAbout: ["Front-End web dev", "Video games", "Mexican food, F1"],
+  
   telephoneNumber: "+52-479-143-91-90",
+  
   funFacts: ["If you eat more pizza than me, I'll buy you a coffee or soda"],
+  
   loveMoreThanCode: "a good weekend with wings,pizza or tacos, a great F1 race and my family"
 }
 
