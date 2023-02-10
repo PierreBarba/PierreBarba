@@ -1,4 +1,3 @@
-## 🌐 Socials:
 <p align='center'><img  src="pierreHello.gif" width="800" height="500" ></p>
 <h3 align="center">A passionate frontend developer from México.</h3>
 
