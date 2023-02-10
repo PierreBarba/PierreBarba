@@ -1,4 +1,4 @@
-<p align='center'><img  src="pierreHelloMorado.gif" width="800" height="500" ></p>
+<p align='center'><img  src="pierreHelloMorado.gif" width="800" height="400" ></p>
 <h3 align="center">A passionate frontend developer from México.</h3>
 
 - 🌱 I’m currently learning **full stack web development on Microverse.**
