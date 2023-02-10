@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-<p align='center'><img  src="pierreHello.gif" width="1000" height="400" ></p>
+<p align='center'><img  src="pierreHello.gif" width="900" height="400" ></p>
 <h3 align="center">A passionate frontend developer from México.</h3>
 
 - 🌱 I’m currently learning **full stack web development on Microverse.**
