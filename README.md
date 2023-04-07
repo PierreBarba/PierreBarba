@@ -1,6 +1,5 @@
 <p align='center'><img  src="multitarea.gif" width="800" height="450" ></p>
-<img align="right" alt="coding" width="80" src="manup.png">
-<br>
+
 <h1 align="center">¡yes! the character above is me</h1> <br><br>
 <h3 align="center">A passionate frontend developer from México.</h3>
 <br>
