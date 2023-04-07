@@ -1,6 +1,5 @@
 <p align='center'><img  src="multitarea.gif" width="800" height="450" ></p>
 <h1 align="center">¡yes! the character above is me</h1>
-<p align='center'><img  src="multitarea.gif" width="800" height="450" ></p>
 <h3 align="center">A passionate frontend developer from México.</h3>
 
 - 🌱 I’m currently learning **full stack web development on Microverse.**
