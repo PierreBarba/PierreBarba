@@ -1,5 +1,4 @@
 <p align='center'><img  src="multitarea.gif" width="800" height="450" ></p>
-
 <h1 align="center">¡yes! the character above is me</h1> <br>
 <h3 align="center">A passionate frontend developer from México.</h3>
 
