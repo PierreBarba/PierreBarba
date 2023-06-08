@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **magpe02@hotmail.com**
 
+- 💼 I am open to new job opportunities.
+
 <!-- - 📄 Know about my experiences [My Resume](https://iqbal-elham.onrender.com/static/media/Mohammad_Iqbal_CV.5fb3ae9d11100998e5c2.pdf)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbal-elham&label=Profile%20views&color=0e75b6&style=flat" alt="iqbal-elham" /> </p>
