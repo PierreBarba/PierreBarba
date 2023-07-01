@@ -3,18 +3,14 @@
 <h3 align="center">A passionate frontend developer from México.</h3>
 
 - 🌱 I’m currently learning **React-redux**
-
 - 👨‍💻 All of my projects are available at [MY Portfolio](https://github.com/PierreBarba?tab=repositories)
-
 - 📫 How to reach me **magpe02@hotmail.com**
-
 - 💼 I am open to new job opportunities.
 <!-- - 📄 Know about my experiences [My Resume](https://iqbal-elham.onrender.com/static/media/Mohammad_Iqbal_CV.5fb3ae9d11100998e5c2.pdf)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbal-elham&label=Profile%20views&color=0e75b6&style=flat" alt="iqbal-elham" /> </p>
 -->
 <br>
 <h2 align="left">Connect with me:</h2>
-
 <p align="left">
 <a href="https://twitter.com/pierre barba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pierre barba" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pierre barba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pierre barba" height="30" width="40" /></a>
