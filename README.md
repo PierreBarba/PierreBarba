@@ -4,10 +4,8 @@
 <h3 align="center">A passionate frontend developer from México.</h3>
 
 - 🌱 I’m currently learning **React-redux**
-- 
 - 👨‍💻 All of my projects are available at [MY Portfolio](https://github.com/PierreBarba?tab=repositories)
 - 📫 How to reach me **magpe02@hotmail.com**
-- 
 - 💼 I am open to new job opportunities.
 - 
 <!-- - 📄 Know about my experiences [My Resume](https://iqbal-elham.onrender.com/static/media/Mohammad_Iqbal_CV.5fb3ae9d11100998e5c2.pdf)
